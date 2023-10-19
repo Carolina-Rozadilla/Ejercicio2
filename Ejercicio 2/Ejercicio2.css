@@ -1,0 +1,41 @@
+
+#header{
+    text-align: center;
+    background-color: indianred;
+    height: 10%;
+    margin-bottom: 20px; 
+    padding-top: 0.5px;
+}
+#col1{
+    float: left;
+    width: 30%;
+    height: 80%;
+    background-color: khaki;
+    margin-right: 20px;
+}
+#div2{
+    height: 340px; 
+}
+#footer{
+    height: 90px;
+    background-color: cornflowerblue;
+}
+#col2{
+    float: right;
+    width: 850px;
+    height: 350px;   
+    background-color: palegreen; 
+}
+#image{
+    padding-top: 45px;
+}
+p{
+    font-size: 1.4em;
+    font-style: oblique;
+}
+.underline{
+    text-decoration: underline;
+}
+span{
+    background-color: darkviolet;
+}
